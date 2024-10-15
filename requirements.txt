@@ -1,0 +1,6 @@
+# requirments
+yfinance
+backtrader
+matplotlib
+
+pip install -r requirements.txt
